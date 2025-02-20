@@ -1,6 +1,6 @@
 # YAML config validator
 
-### Aim - create reusable model to validate .yaml configfile and convert it to python object
+### Aim - create reusable module to validate .yaml configfile and convert it to python object
 
 # How to apply to your project
 1. Copy `src/base_model.py` to your project
