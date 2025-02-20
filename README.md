@@ -5,6 +5,7 @@
 # How to apply to your project
 1. Copy `src/base_model.py` to your project
 2. Inherit your model from `YamlModel` (see `src/example_model.py` for example)
+3. Validate config like this ```config = Config.from_yaml("config.yaml")```
 
 
 # How to install
