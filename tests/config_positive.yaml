@@ -1,0 +1,6 @@
+owner:
+  age: 30
+  name: "John Doe"
+car:
+  name: "BMW"
+  is_new: true
